@@ -11,7 +11,7 @@ No. Well, yes. However, a "kernel optimizer" is a poor way to put it. KTweak per
 * [ZeetaTweaks](https://t.me/zeetaaprojbot) is a clone of KTweak with the values changed. As of the V11 zip, it disables essential system services, deletes files permanently from /data/data, kills perfd (which is the userspace boosting daemon), disables SELinux, disables fsync, and various other detrimental changes.
 
 # What's different about KTweak?
-Unlike other "kernel optimizers", KTweak is:
+Unlike other "kc3ee652890ea131f5f41a4761a4464664d2a67647823ae491693d80833830d63e0fbc7bd3f36669bernel optimizers", KTweak is:
 
 * Entirely open source with no compiled components
 * Concise, at less than 200 lines long
