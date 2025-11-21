@@ -1,4 +1,4 @@
-# KTweak
+293f748e2ff80af8fd8675bc16869e8eda8fe492# KTweak
 A no-nonsense kernel tweak script for Linux and Android systems, backed by evidence.
 
 # Another "kernel optimizer"?
